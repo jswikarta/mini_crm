@@ -11,8 +11,8 @@ Mini CRM adalah aplikasi sederhana untuk mengelola data pelanggan dan pesanan. P
 
 ## Struktur Direktori
 mini_crm/
-├── backend/ # Server API Express
-└── frontend/ # Aplikasi web React
+- backend/ # Server API Express
+- frontend/ # Aplikasi web React
 
 ## Catatan
 Penjelasan lebih lengkap untuk backend & frontend terdapat di masing masing directori.
