@@ -1,0 +1,96 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Johan Saka Wikarta",
+      "email": "jswikarta@gmail.com",
+      "phone": "6281316658899"
+    },
+    {
+      "id": 2,
+      "name": "Guts Dragon Slayer",
+      "email": "gutsdragonslayer@gmail.com",
+      "phone": "6287870115979"
+    },
+    {
+      "id": 3,
+      "name": "Pandu Wijaya Wicaksono",
+      "email": "panduwijaya@gmail.com",
+      "phone": "6281316658888"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "date": "2025/07/20",
+      "total": "100000",
+      "items": [
+        {
+          "name": "Bebek goreng",
+          "qty": 2
+        }
+      ],
+      "customer_id": 1
+    },
+    {
+      "id": 2,
+      "date": "2025/07/20",
+      "total": "100000",
+      "items": [
+        {
+          "name": "Ayam Bakar",
+          "qty": 2
+        },
+        {
+          "name": "Es Teh",
+          "qty": 2
+        }
+      ],
+      "customer_id": 1
+    },
+    {
+      "id": 3,
+      "date": "2025/07/20",
+      "total": "50000",
+      "items": [
+        {
+          "name": "Ayam Goreng",
+          "qty": 2
+        },
+        {
+          "name": "Es Teh",
+          "qty": 2
+        }
+      ],
+      "customer_id": 1
+    },
+    {
+      "id": 4,
+      "date": "2025/07/20",
+      "total": "70000",
+      "items": [
+        {
+          "name": "Pecel Lele",
+          "qty": 2
+        },
+        {
+          "name": "Lemineral 300 Ml",
+          "qty": 2
+        }
+      ],
+      "customer_id": 2
+    },
+    {
+      "id": 5,
+      "date": "2025/07/20",
+      "total": "25000",
+      "items": [
+        {
+          "name": "Pecel lele",
+          "qty": 1
+        }
+      ],
+      "customer_id": 2
+    }
+  ]
+}
